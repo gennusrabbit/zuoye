@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/201/201"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "开关",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}
